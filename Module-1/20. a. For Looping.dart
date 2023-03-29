@@ -1,0 +1,11 @@
+import 'dart:io';
+
+void main(){
+
+  var i;
+  for(i=1; i<=10; i++)
+  {
+    print(i);
+  }
+
+}
